@@ -1,0 +1,27 @@
+ul{
+    display: inline-flex;
+padding: 10px;
+justify-content: center;
+align-items: center;
+gap: 30px;
+}
+.mf{
+    color: #FFF;
+text-align: right;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+display:flex;
+}
+.bg{
+    display:inline-flex;
+padding: 20px 30px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+background: #F85559;
+color: white;
+}
